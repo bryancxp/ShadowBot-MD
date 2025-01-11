@@ -13,7 +13,7 @@ global.botNumberCode = "" //Ejemplo: +59309090909
 global.phoneNumber = ""
 
  global.owner = [ 
- ["584125778026", "Owner", true], 
+ ["7226711169", "Owner", true], 
  ["5492266613038"],
  ["5217779091180"],
  ["50375961083"],
